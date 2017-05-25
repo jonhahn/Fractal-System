@@ -1,2 +1,3 @@
 # Fractal-System
-Predictions of sporting events
+Analyzing a dynamical system with a discontinuous change in direction at a fractal boundary
+
